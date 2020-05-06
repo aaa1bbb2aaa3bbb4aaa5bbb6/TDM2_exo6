@@ -1,0 +1,59 @@
+[
+
+  {
+    groupe:1,
+    anee:2020,
+    jour:1,
+    heure:8,
+    module:"physics",
+    salle:2,
+    enseignant:"Batata"
+
+
+  },
+  {
+    groupe:2,
+    anee:2020,
+    jour:1,
+    heure:10,
+    module:"physics",
+    salle:2,
+    enseignant:"Batata"
+
+  },
+  {
+    groupe:1,
+    anee:2020,
+    jour:8,
+    heure:18,
+    module:"LANGUAGE",
+    salle:4,
+    enseignant:"CHOMESKY"
+
+  },
+  {
+    groupe:1,
+    anee:2020,
+    jour:5,
+    heure:1,
+    module:"MOBILE2",
+    salle:3,
+    enseignant:"MOSTEFAI"
+
+  }?
+  {
+    groupe:1,
+    anee:2020,
+    jour:5,
+    heure:1,
+    module:"MOBILE2",
+    salle:3,
+    enseignant:"MOSTEFAI"
+
+  }
+
+
+
+
+
+]
